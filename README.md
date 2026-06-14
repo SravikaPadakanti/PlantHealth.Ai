@@ -209,7 +209,6 @@ For each uploaded leaf image, the app returns:
 ## 🤝 Acknowledgements
 
 - Dataset: [PlantVillage Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) (87K images, 38 classes)
-- Original project by: [animesh1012](https://github.com/animesh1012/machineLearning)
 - Framework: TensorFlow / Keras
 - Web Framework: Flask / Streamlit
 
