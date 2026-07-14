@@ -19,6 +19,31 @@ PlantHealth.AI is a deep learning-powered web application that detects whether a
 
 ## 🖥️ Demo Screenshots
 
+| Home Page | Farmer Education Hub |
+| :---: | :---: |
+| ![Home Page](./Screenshots/Home_Page.png) | ![Education Hub](./Screenshots/Farmer_Education_Hub.png) |
+
+---
+
+### 2. Diagnosis Pipeline
+Users can upload a high-resolution image of a leaf. The app instantly processes it through the 5-layer CNN model.
+
+| Step 1: Photo Uploading | Step 2: Leaf Diagnosis |
+| :---: | :---: |
+| ![Photo Upload Phase](./Screenshots/Photo_Uploading_Phase.png) | ![Leaf Diagnosis Page](./Screenshots/Leaf_Diagnosis_Page.png) |
+
+---
+
+### 3. Model Accuracy & Testing
+The system provides transparency by allowing users to view the underlying training curves and real-time test results.
+
+| Dataset & Learning Curves | Sample Test Result |
+| :---: | :---: |
+| ![Model Learning Curves](./Screenshots/Model_Learning_Curves.png) | ![Test Result](./Test_Screenshots/Test_Result_1.png) |
+
+---
+
+
 | Feature | Description |
 |---|---|
 | Home Hub | Landing page with project overview and stats |
